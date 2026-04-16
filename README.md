@@ -1,16 +1,23 @@
-## Hi there 👋
+```md
+# Hi, I'm Vaios 👋
 
-<!--
-**vitsifunk/vitsifunk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Computer Science student
+- Focused on backend development & REST APIs
+- Currently building real-world projects with Node.js & MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Node.js, Express
+- MongoDB, MySQL
+- JavaScript, C#, Java
+- REST APIs, JWT Authentication
+
+## 📌 Featured Project
+👉 Vacation House Trading Platform  
+A full backend system with authentication, messaging, and notifications
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/vaios-tsiaras
+- Email: vitsifunk@hotmail.com
