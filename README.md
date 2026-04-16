@@ -1,21 +1,22 @@
-# Hi, I'm Vaios 👋
+# Hi, I'm Vaios 
 
-🎯 Junior Backend Developer (Node.js)
+ Junior Backend Developer (Node.js)
 
-## 🚀 About Me
+## About Me
+- Building RESTful APIs and backend systems with Node.js, Express, and MongoDB.
 - Computer Science student
 - Focused on backend development & REST APIs
 - Building real-world applications with Node.js & MongoDB
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Node.js, Express
 - MongoDB, MySQL
 - JavaScript, C#, Java
 - REST APIs, JWT Authentication
 
-## 🚀 Featured Project
+## Featured Project
 
-### 🏡 Vacation House Trading Platform
+### Vacation House Trading Platform
 A full-stack dissertation project focused on backend architecture.
 
 - JWT authentication & cookies
@@ -27,5 +28,5 @@ A full-stack dissertation project focused on backend architecture.
 🔗 https://github.com/vitsifunk/Dissertation-Project-Vacation-House-Trading-Platform
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/vaios-tsiaras
+- LinkedIn: https://linkedin.com/in/vaios-tsiaras-49791417
 - Email: vitsifunk@hotmail.com
