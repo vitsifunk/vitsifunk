@@ -14,9 +14,19 @@
 - JavaScript, C#, Java
 - REST APIs, JWT Authentication
 
-## 📌 Featured Project
-👉 Vacation House Trading Platform  
-A full backend system with authentication, messaging, and notifications
+## 🚀 Featured Project
+
+### 🏡 Vacation House Trading Platform
+A full-stack dissertation project focused on backend architecture.  
+Built with Node.js, Express, and MongoDB, featuring:
+
+- JWT authentication & cookies
+- House listing and availability management
+- Swap request system
+- Messaging between users
+- Notifications (read/unread)
+
+🔗 [View Repository](https://github.com/vitsifunk/Dissertation-Project-Vacation-House-Trading-Platform)
 
 ## 📫 Contact
 - LinkedIn: https://linkedin.com/in/vaios-tsiaras-497914175
