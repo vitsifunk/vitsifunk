@@ -19,5 +19,5 @@
 A full backend system with authentication, messaging, and notifications
 
 ## 📫 Contact
-- LinkedIn: https://linkedin.com/in/vaios-tsiaras
+- LinkedIn: https://linkedin.com/in/vaios-tsiaras-497914175
 - Email: vitsifunk@hotmail.com
