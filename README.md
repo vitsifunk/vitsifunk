@@ -1,7 +1,7 @@
 ```md
 # Hi, I'm Vaios 👋
 
-🎯 Junior Developer
+🎯 Junior Backend Developer | Node.js, Express, MongoDB
 
 ## 🚀 About Me
 - Computer Science student
